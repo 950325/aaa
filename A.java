@@ -1,4 +1,3 @@
-package health;
 import java.awt.event.*;
 import javax.swing.*;
 class Id extends JFrame{
@@ -202,3 +201,4 @@ public class A {
 	}
 
 }
+
